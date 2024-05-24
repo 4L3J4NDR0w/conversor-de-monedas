@@ -22,6 +22,6 @@ Para instalar y configurar **Mi conversor de monedas**, sigue estos pasos:
 
 ## Autores
 
-- **Alejandro Hernandez** - *Desarrollador Principal* - [4L3J4NDR0w](https://github.com/tu_usuario)
+- **Alejandro Hernandez** - *Desarrollador Principal* - [4L3J4NDR0w](https://github.com/4L3J4NDR0w)
 
 
